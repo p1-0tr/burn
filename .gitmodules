@@ -1,3 +1,0 @@
-[submodule "crates/burn-wgpu/dawn"]
-	path = crates/burn-wgpu/dawn
-	url = https://dawn.googlesource.com/dawn
