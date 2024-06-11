@@ -17,7 +17,6 @@ default = [
     "channel-mpsc",
     "channel-cell",
     "storage-bytes",
-    "autotune-persistent-cache",
 ]
 std = [
     "burn-common/std",
